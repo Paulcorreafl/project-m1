@@ -1,3 +1,8 @@
 # proyect-m1
 proyecto
-##titulo
+## Pasos a seguir
+1-creamos un git
+
+1-Creamos las carpetas
+
+2-
